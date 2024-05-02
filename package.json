@@ -1,0 +1,19 @@
+{
+  "name": "ml-api-integration",
+  "version": "1.0.0",
+  "description": "Api to teste integration with ML API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstevanPithan/ml-api-integration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EstevanPithan/ml-api-integration/issues"
+  },
+  "homepage": "https://github.com/EstevanPithan/ml-api-integration#readme"
+}
